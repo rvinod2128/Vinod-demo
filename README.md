@@ -3,4 +3,4 @@ First github repository
 <br>
 Learning new 
 <br>
-Author- Vinod
+Author- R.Vinod
